@@ -1,37 +1,5 @@
-HELP.md
-.gradle
-build/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
+Developed an interactive web application utilizing Java, Spring Boot, and MySQL, facilitating seamless seat reservations for over 15,000 students on campus shuttles.
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+Integrated three key APIs to manage student requests for pickup and drop-offs, deliver real-time ETA updates, track shuttle locations, and validate student identities.
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
+Streamlined the application structure, enhanced design, and optimized SQL queries to significantly improve response times, thereby minimizing end-user waiting periods.
